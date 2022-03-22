@@ -5,7 +5,8 @@ personality is that learning any kind of document about network and security
 underestanding about network and security is very interesting for me .
 to be honest , Im a junoir pentester
 
-Some fields of activities :
+Some fields of activities : 
+
 +ethical hacking with python
 +exploit with python
 
