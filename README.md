@@ -8,10 +8,12 @@ to be honest , Im a junoir pentester
 Some fields of activities : 
 
 +ethical hacking with python
+
 +exploit with python
 
 
 My favorites :
+
 +Checking the code of other programmers 
 
 
